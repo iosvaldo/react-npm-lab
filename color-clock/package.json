@@ -1,0 +1,16 @@
+{
+  "name": "clock-app",
+  "version": "1.0.0",
+  "description": "a simple application that gives time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello world!'",
+    "start": "serve"
+  },
+  "author": "osvaldo",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "serve": "^14.0.1"
+  }
+}
